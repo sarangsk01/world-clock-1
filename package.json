@@ -2,7 +2,6 @@
   "name": "world-clock",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sarangsk01.github.io/world-clock",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
